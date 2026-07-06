@@ -16,5 +16,7 @@ $$H(X) = -\sum P(x_i) \log_2 P(x_i)$$
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/wordle-solver.git](https://github.com/YOUR_USERNAME/wordle-solver.git)
+   git clone [https://github.com/bruhmemer123/wordle-solver.git]
    cd wordle-solver
+   pip install selenium
+   python guesser.py
